@@ -111,4 +111,6 @@ function greet() {
 })();
 
 if (true) {
+  let ichBinNurHierDrinVerfuegbar = true;
+  var ichBinAuchDraussenVerfuegbar = true;
 }
